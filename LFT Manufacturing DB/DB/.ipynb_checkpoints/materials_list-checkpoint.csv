@@ -1,0 +1,15 @@
+Name,field_name,part_no,bias_min,bias_max,prec_min,prec_max,reli_min,reli_max
+Conjugate Pad,conj_pad,E-OPS-0001,0.9,1.1,3.3,5.0,0.01,0.04
+Sample Pad,smpl_pad,E-OPS-0002,0.9,1.1,3.3,5.0,0.01,0.04
+Wicking Pad,wick_pad,E-OPS-0003,0.9,1.1,3.3,5.0,0.01,0.04
+Detection Latex,det_latex,E-OPS-0004,0.9,1.1,3.3,5.0,0.01,0.04
+Detection Antibody,det_ab,E-OPS-0005,0.9,1.1,3.3,5.0,0.01,0.04
+Test Antibody,test_ab,E-OPS-0006,0.9,1.1,3.3,5.0,0.01,0.04
+Control Antibody,ctrl_ab,E-OPS-0007,0.9,1.1,3.3,5.0,0.01,0.04
+Antibody Diluent,diluent,E-OPS-0008,0.9,1.1,3.3,5.0,0.01,0.04
+Plastic Cassette,cassette,E-OPS-0009,0.9,1.1,3.3,5.0,0.01,0.04
+Reagent A,rgt_a,E-OPS-0010,0.9,1.1,3.3,5.0,0.01,0.04
+Reagent B,rgt_b,E-OPS-0011,0.9,1.1,3.3,5.0,0.01,0.04
+Reagent C,rgt_c,E-OPS-0012,0.9,1.1,3.3,5.0,0.01,0.04
+Assembly A,asm_a,E-OPS-0100,0.9,1.1,3.3,5.0,0.01,0.04
+Assembly B (Finished Kit),asm_b,E-OPS-0101,0.9,1.1,3.3,5.0,0.01,0.04
